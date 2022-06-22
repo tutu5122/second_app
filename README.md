@@ -1,8 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 Subir el proyecto a heroku   https://still-dawn-05452.herokuapp.com/pages/test
 
 Things you may want to cover:
